@@ -22,7 +22,7 @@
 
 Я вдохновился формулой
 
-![](https://wikimedia.org/api/rest_v1/media/math/render/svg/dcfad3725788a7b63751e0b99f294bb9092051ca)
+<img style="background-color:#808080;" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dcfad3725788a7b63751e0b99f294bb9092051ca" alt="Формула"/>
 
 И решил написать код, который сделает [эту таблицу](#Таблица)
 
